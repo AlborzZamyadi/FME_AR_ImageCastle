@@ -20,20 +20,13 @@ All of the images can be those of yours. Just decide where you'd like your image
 
 Entrance Hall :
 ![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/8.jpg)
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/9.jpg)
 
 Middle Hall :
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/10.jpg)
 
 Exit Hall :
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/11.jpg)
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/12.jpg)
 
 Outside between the Entrance and Exit :
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/13.jpg)
 
 Outside furrhur down the Entrance :
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/14.jpg)
 
-Images 200.jpg and 201.jpg for Base and Walls at [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/tree/master/Images/General_Texture) folder 
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/15.jpg)
+Images 200.jpg and 201.jpg for Base and Walls at [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/tree/master/Images/General_Texture) folder
