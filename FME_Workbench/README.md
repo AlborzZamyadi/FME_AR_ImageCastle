@@ -19,7 +19,7 @@ All of the images can be those of yours. Just decide where you'd like your image
 * To make sure the Walls and Base are rendered properly and Appearnces are not mixed please donwload images 200.jpg and 201.jpg from the [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/tree/master/Images/General_Texture) folder.
 
 Entrance Hall :
-![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/8.jpg)
+![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/8.JPG)
 
 Middle Hall :
 
