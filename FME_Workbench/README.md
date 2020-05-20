@@ -16,7 +16,7 @@ All of the images can be those of yours. Just decide where you'd like your image
 * Outside between the Entrance and Exit : 1 image (image 31
 * Outside furrhur down the Entrance : 3 images (100.jpg, 101.jpg, and 102,jpg). These can be adding credits ...
 
-* To make sure the Walls and Base are rendered properly and Appearnces are not mixed please donwload images 200.jpg and 201.jpg from the [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/upload/master/Images/General_Texture) folder.
+* To make sure the Walls and Base are rendered properly and Appearnces are not mixed please donwload images 200.jpg and 201.jpg from the [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/tree/master/Images/General_Texture) folder.
 
 Entrance Hall :
 ![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/8.jpg)
@@ -35,5 +35,5 @@ Outside between the Entrance and Exit :
 Outside furrhur down the Entrance :
 ![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/14.jpg)
 
-Images 200.jpg and 201.jpg for Base and Walls at [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/upload/master/Images/General_Texture) folder 
+Images 200.jpg and 201.jpg for Base and Walls at [General_Texture](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/tree/master/Images/General_Texture) folder 
 ![](https://github.com/AlborzZamyadi/FME_AR_ImageCastle/blob/master/DOC/15.jpg)
